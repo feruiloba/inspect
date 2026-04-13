@@ -1,0 +1,33 @@
+.env
+.venv/
+__pycache__/
+.compose.yaml
+.vscode/*
+!.vscode/task.code-snippets
+untracked/*
+.DS_Store
+__MACOSX/
+tinyBenchmarks.pkl
+3rd_party/
+docs/3rd_party/
+scripts/run_eval_campaign/launched_jobs/*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+frontend/*.local
+
+# Editor directories and files
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
