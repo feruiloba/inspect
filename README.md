@@ -5,7 +5,7 @@ An "Evals Playground" built on top of [Inspect AI](https://inspect.aisi.org.uk/)
 ## Project Structure
 
 ```
-apollo/
+/
 ├── task/                          # Main project
 │   ├── dont_spoil_my_surprise/    # The Inspect AI evaluation
 │   │   ├── assets/                # Emails, store items, prompts, configs
